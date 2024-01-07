@@ -1,0 +1,42 @@
+.Main{
+    border: 2px solid grey;
+    background-color: rgb(206, 245, 245);
+ outline: double silver ;
+      width: 50%;
+    margin: 10rem 20rem 10rem 20rem ;
+ border-radius: 2rem;
+}
+.Main-data{
+    align-items: center;
+    margin: 2rem 15rem 2rem 15rem;
+
+}
+.Main-data input{
+ height: 2rem;
+ width: auto;
+ border: 1px black solid;
+ border-radius: .5rem;
+ background-color: blanchedalmond;
+ text-align: center;
+}
+
+.Information{
+     width: 50%;
+    align-items: center;
+    padding: 10px;
+    margin: 2rem 15rem 2rem 9rem;  
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.Information h1 {
+ margin: 0 15rem 0 8rem;  
+ text-align: center;
+}
+.Information h2 {
+    margin: 0 15rem 0 8rem;  
+    text-align: center;
+   }
+   .Information h3 {
+     
+    text-align: center;
+   }
+
