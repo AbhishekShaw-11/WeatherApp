@@ -35,11 +35,11 @@ const Weather = () => {
                                 <FaStreetView /> {search}
                             </h1>
                             <h2 className='celius'>
-                                {location.temp}°C
+                               Current: {location.temp}°C
                             </h2>
 
                             <h3 className='max-min'>
-                                {location.temp_min}°C| {location.temp_max}°C
+                               MIN: {location.temp_min}°C| MAX: {location.temp_max}°C
                             </h3>
                         </div>
                     </div>
